@@ -103,5 +103,8 @@ theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
+# default repo branch gh-pages
 deploy:
-  type: ''
+  type: 'git'
+  repository: 'git@github-yc:yucongo/ttw-blog.git'
+  branch: 'gh-pages'
