@@ -1,0 +1,5 @@
+*.bat
+*.log
+node_modules/
+public/
+.deploy*/*.txt
