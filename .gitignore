@@ -3,3 +3,4 @@
 node_modules/
 public/
 .deploy*/*.txt
+wrangler.toml
